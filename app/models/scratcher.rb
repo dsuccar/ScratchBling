@@ -1,0 +1,2 @@
+class Scratcher < ApplicationRecord
+end
